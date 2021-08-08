@@ -6,7 +6,7 @@ Early accurate diagnosis plays an important role in choosing the right treatment
 In recent years, efforts have been made to predict and detect all types of cancers by employing artificial intelligence. 
 An appropriate dataset is the first essential step to achieve such a goal. 
 This repo introduces a histopathological microscopy image dataset of 922 images related to 124 patients with IDC. 
-The dataset has been published and is accessible through the web at: http://databiox.com. 
+The dataset can be downloaded from [here](https://drive.google.com/file/d/1gfjK-_nLN5PnSb-UWKkWUJpIQxhJGSJQ/view?usp=sharing). 
 The distinctive feature of this dataset as compared to similar ones is that it contains an 
 equal number of specimens from each of three grades of IDC, which leads to approximately 50 specimens for each grade.  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lobules_and_ducts_of_the_breast.jpg/504px-Lobules_and_ducts_of_the_breast.jpg)  
