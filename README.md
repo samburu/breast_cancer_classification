@@ -10,7 +10,7 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1gfjK-
 The distinctive feature of this dataset as compared to similar ones is that it contains an 
 equal number of specimens from each of three grades of IDC, which leads to approximately 50 specimens for each grade.  
 
-<div align='center'><fig><img src="output/png/lobules_and_ducts_of_the_breast.jpg"  width="95%" height="40%"><figcaption> Fig.1. Lobules and ducts of the breast. </figcaption></div>
+<div align='center'><fig><img src="output/png/lobules_and_ducts_of_the_breast.jpg"  width="400" height="400""><figcaption> Fig.1. Lobules and ducts of the breast. </figcaption></div>
 <br>
 
 ## Introduction  
