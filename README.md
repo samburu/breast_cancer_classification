@@ -9,10 +9,13 @@ This repo introduces a histopathological microscopy image dataset of 922 images 
 The dataset can be downloaded from [here](https://drive.google.com/file/d/1gfjK-_nLN5PnSb-UWKkWUJpIQxhJGSJQ/view?usp=sharing). 
 The distinctive feature of this dataset as compared to similar ones is that it contains an 
 equal number of specimens from each of three grades of IDC, which leads to approximately 50 specimens for each grade.  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lobules_and_ducts_of_the_breast.jpg/504px-Lobules_and_ducts_of_the_breast.jpg)  
+
+<div align='center'><fig><img src="output/png/lobules_and_ducts_of_the_breast.jpg"  width="95%" height="95%"><figcaption>Fig.1. Lobules and ducts of the breast. </figcaption></div>
+<br>
 
 ## Introduction  
 In Kenya, cancer is the third leading cause of death after infectious and cardiovascular diseases. 
 From 2012 to 2018, the annual incidence of cancer increased from 37,000 to 47,887 new cases.An
 During the same period, annual cancer mortality rose almost 16%, from 28,500 to 32,987 cancer-related deaths. 
 The number of new cancer cases is expected to rise by more than 120% over the next 2 decades.
+In this project we wil train a CNN to classify breast cancer.
